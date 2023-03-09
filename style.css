@@ -16,4 +16,11 @@ DIV {
 	margin-right: auto;
 	margin-left: auto;
 	}
-	
+
+#Footer {
+	width: 802px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 50px;
+	border: 1px solid #fff;
+}
