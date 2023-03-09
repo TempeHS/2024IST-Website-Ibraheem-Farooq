@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DIV {
 	border: 1px solid #000;
 	}
@@ -40,3 +41,47 @@ DIV {
 	border: 1px solid red;
 }
 
+=======
+DIV {
+	border: 1px solid #000;
+	}
+
+#Header {
+	height: 100px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background: url(images/banner.png) no-repeat;
+	color:red;
+	}
+
+#MainContent {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+#Footer {
+	width: 802px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 50px;
+	border: 1px solid #fff;
+}
+
+#FooterLeft {
+	float: left;
+	width: 399px; /*49.5%*/
+	height: 50px;
+	border: 1px solid green;
+}
+
+#FooterRight
+{
+	float: right;
+	width: 399px; /*49.5%*/
+	height: 50px;
+	border: 1px solid red;
+}
+
+>>>>>>> 1edfa47a5e645a271447eb6a04772edb5a735e61
